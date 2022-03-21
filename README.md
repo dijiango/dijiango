@@ -4,13 +4,31 @@
 
 <p> After graduating with a bachelor's in International Relations in 2020, I decided to switch industries to software engineering after dabbling in programming during the pandemic. Since then, I've graduated from [Flatiron School's]() 15-week intensive coding bootcamp and am currently building projects and deepening my knowledge of programming fundamentals. </p>
 
+### Connect with me:
+<a href="https://www.linkedin.com/in/dijiang0/"><img src="https://icon-library.com/images/linkedin-icon-no-background/linkedin-icon-no-background-18.jpg" alt="Linkedin Profile" height="50px"/></a>
+[<img src="https://icon-library.com/images/microsoft-outlook-icon/microsoft-outlook-icon-24.jpg" alt="Linkedin Profile" height="50px"/>](mailto:diana.jiang@outlook.com)
+
+---
+
 [![Diana Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dijiango&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### What I'm up to:
 
 - I'm currently working on [Context Cards](https://github.com/dijiango/context-cards) and [Glass Window](https://github.com/dijiango/glasswindow-backend)
 - I'm currently learning data structures, algorithms, Heroku, and Gatsby.js
 - I'm looking foward to learning Python, TypeScript, and Angular.
+
+---
+
+### These are some of the projects I've done:
+[![Context Cards](https://github-readme-stats.vercel.app/api/pin/?username=dijiango&repo=context-cards&theme=tokyonight)](https://github.com/dijiango/context-cards)
+[![Glass Window](https://github-readme-stats.vercel.app/api/pin/?username=dijiango&repo=glasswindow-frontend&theme=tokyonight)](https://github.com/dijiango/glasswindow-frontend)
+[![ESR](https://github-readme-stats.vercel.app/api/pin/?username=dijiango&repo=esr-calorie-counter&theme=tokyonight)](https://github.com/dijiango/esr-calorie-counter)
+[![GeoExchange](https://github-readme-stats.vercel.app/api/pin/?username=dijiango&repo=geo_exchange&theme=tokyonight)](https://github.com/dijiango/geo_exchange)
+
+---
 
 ### These are the languages, frameworks, and tools I've learned:
 <p float="left">
@@ -26,9 +44,3 @@
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="50px">
   <img src="https://icon-library.com/images/git-icon/git-icon-28.jpg" alt="Git" height="50px">
  </p>
- 
-### These are some of the projects I've done:
-[![Context Cards](https://github-readme-stats.vercel.app/api/pin/?username=dijiango&repo=context-cards&theme=tokyonight)](https://github.com/dijiango/context-cards)
-[![Glass Window](https://github-readme-stats.vercel.app/api/pin/?username=dijiango&repo=glasswindow-frontend&theme=tokyonight)](https://github.com/dijiango/glasswindow-frontend)
-[![ESR](https://github-readme-stats.vercel.app/api/pin/?username=dijiango&repo=esr-calorie-counter&theme=tokyonight)](https://github.com/dijiango/esr-calorie-counter)
-[![GeoExchange](https://github-readme-stats.vercel.app/api/pin/?username=dijiango&repo=geo_exchange&theme=tokyonight)](https://github.com/dijiango/geo_exchange)
