@@ -7,7 +7,7 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/dijiang0/"><img src="https://icon-library.com/images/linkedin-icon-no-background/linkedin-icon-no-background-18.jpg" alt="Linkedin Profile" height="50px"/></a>
 [<img src="https://icon-library.com/images/microsoft-outlook-icon/microsoft-outlook-icon-24.jpg" alt="Linkedin Profile" height="50px"/>](mailto:diana.jiang@outlook.com)
-
+<a href="https://medium.com/@diana-jiang"><img src="https://media.glassdoor.com/sql/784883/medium-squareLogo-1636755870416.png" alt="Linkedin Profile" height="50px"/></a>
 ---
 
 [![Diana Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dijiango&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
